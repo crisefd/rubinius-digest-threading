@@ -1,0 +1,8 @@
+---
+
+language: ruby
+
+rvm:
+  - rbx-2
+
+script: ruby test.rb
